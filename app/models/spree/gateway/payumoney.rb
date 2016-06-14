@@ -48,7 +48,7 @@ module Spree
     end
 
     def service_provider
-      "payu_paisa"
+      ""
     end
 
     def checksum_ok?(itms, pg_hash)
